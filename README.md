@@ -1,3 +1,3 @@
-# Atividades-Sardinha-2
-Atividades Sardinha
-[atividades java John.zip](https://github.com/jwaynesz/Atividades-Sardinha-2/files/12685581/atividades.java.John.zip)
+# Java-Project-Classes
+java project classes
+[atividades java John.zip](https://github.com/jwaynesz/Java-Project-Classes/files/12685581/atividades.java.John.zip)
